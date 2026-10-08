@@ -1,0 +1,5 @@
+- jay.teignton : admin (Login to https://teignton.htb/Admin/Management)
+- abbie.buckfast@teignton.htb : AMkru$3_f'/Q^7f? (Login to https://teignton.htb/owa/#path=/mail)
+- webappusr : d65f4sd5f1s!df1fsd65f1sd (Login to MSSQL)
+- karl.memaybe : B6rQx_d&RVqvcv2A (Login to https://teignton.htb/owa/#path=/mail )
+- jay.teignton : D0ntL0seSk3l3tonK3y! (Jay's credentials, accessible via WIN-RM)

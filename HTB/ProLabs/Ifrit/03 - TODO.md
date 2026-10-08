@@ -1,0 +1,2 @@
+- Check the Pleasant via the VDI02 secrets from Charlotte or the other local users
+- Abuse SQL03, VDI02

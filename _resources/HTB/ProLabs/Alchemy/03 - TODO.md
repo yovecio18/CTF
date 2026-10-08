@@ -1,0 +1,3 @@
+- Connect to OPENVPN on 10.10.110.100
+- Check the creds on pcap
+- Get root on the 17.0 .50, 10 and 11.

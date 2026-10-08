@@ -1,0 +1,2 @@
+- Check if there are any flags on the Mythic server
+- Check what is in the 192.168.1.10/24

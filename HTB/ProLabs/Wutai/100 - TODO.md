@@ -1,0 +1,2 @@
+- Check the flag on WUTAI-VDI-GW and the 21.50
+- Controllo di GPO site ou from IT to WUTAI
